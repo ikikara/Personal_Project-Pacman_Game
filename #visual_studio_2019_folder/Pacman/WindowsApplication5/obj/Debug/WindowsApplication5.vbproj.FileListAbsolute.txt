@@ -1,0 +1,95 @@
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\PACMAN.exe.config
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\PACMAN.exe
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\PACMAN.pdb
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\PACMAN.xml
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\PACMAN.exe
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\PACMAN.xml
+c:\users\hugo\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\PACMAN.pdb
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojAssemblyReference.cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.CoreCompileInputs.cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojAssemblyReference.cache
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+D:\IKIRU\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojAssemblyReference.cache
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+F:\## ESCOLA\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe.config
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.exe
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.pdb
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\bin\Debug\PACMAN.xml
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojAssemblyReference.cache
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.cache
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.exe
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.xml
+C:\Users\Ikiru\Desktop\Meu proprio divertimento\Pacman\WindowsApplication5\obj\Debug\PACMAN.pdb
