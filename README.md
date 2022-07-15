@@ -34,4 +34,4 @@ You have two ways to run this project:
 ## Controls:
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
